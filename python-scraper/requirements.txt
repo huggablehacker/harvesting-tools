@@ -3,3 +3,4 @@ beautifulsoup4==4.5.3
 lxml==3.7.2
 selenium==3.0.2
 awscli==1.11.47
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
